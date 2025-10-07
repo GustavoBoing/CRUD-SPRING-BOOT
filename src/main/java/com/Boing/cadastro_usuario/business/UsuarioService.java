@@ -9,8 +9,8 @@ public class UsuarioService {
 
     private final UsuarioRepository repository;
 
-    public UsuarioService(UsuarioRepository repository, UsuarioRepository repository1){
-        this.repository = repository1;
+    public UsuarioService(UsuarioRepository repository){
+        this.repository = repository;
     }
 
     public void salvarUsuario(Usuario usuario){

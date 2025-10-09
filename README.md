@@ -16,7 +16,7 @@ Integração com banco de dados relacional
 
 🚀 Tecnologias Utilizadas
 Tecnologia	Função
-☕ Java 17+	Linguagem principal
+☕ Java 25Linguagem principal
 🌱 Spring Boot	Framework principal
 🧭 Spring Web	Criação das rotas REST
 🗄️ Spring Data JPA	Persistência de dados
